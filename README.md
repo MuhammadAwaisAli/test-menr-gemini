@@ -1,1 +1,1 @@
-# test-menr-gemini python
+# test-menr-gemini python and open ai
